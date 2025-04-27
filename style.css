@@ -1,0 +1,283 @@
+.container{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.logo{
+    padding-top: 15px;
+}
+.list{
+    display: flex;
+
+}
+.list>li:hover{
+    color: green;
+
+}
+.list>li{
+    list-style: none;
+    font-size: 18px;
+}
+.list{
+    gap: 40px;
+}
+.btn{
+    color: white;
+    background-color: green;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+}
+.btn:hover{
+    background-color: white;
+    border: 2px solid green;
+    color: green;
+    transition: 1s;
+}
+/* SECTION 02 */
+.section{
+    
+    display: flex;
+    background-color: rgb(185, 181, 181, 0.2);
+}
+.sec1{
+    padding-left: 150px;
+padding-top: 100px;
+line-height: 10px;
+
+}
+.sec2{
+padding-left: 400px;
+padding-top: 100px;
+}
+.one{
+    font-size: 50px;
+    color: rgb(90, 83, 83);
+}
+.two{
+    font-size: 50px;
+    color:green;
+}
+.three{
+    color: gray;
+}
+/* SEction 03 */
+.section3{
+    line-height: 10px;
+    padding: 40px;
+    
+
+}
+.client{
+    font-size: 40px;
+    color: rgb(58, 53, 53);
+    text-align: center;
+}
+.four{
+    color: gray;
+    text-align: center;
+}
+.icons{
+    justify-content: space-evenly;
+    display: flex;
+}
+/* sectuon 04 */
+.para{
+    align-items: center;
+    padding: 40px;
+    
+   
+}
+.para1{
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(58, 53, 53); 
+}
+.para2{
+    text-align: center;
+    line-height: 4px;
+    color: gray;
+}
+/* section 05 */
+.member{
+    display: flex;
+    background-color: white;
+    
+}
+.cont1{
+    padding-left: 150px;
+    text-align: center;
+}
+.min1{
+    color: rgb(68, 65, 65);
+    font-size: 25px;
+    font-weight:800 ;
+}
+.imgn{
+    width: 60px;
+    height: 60px;
+}
+.cont2{
+    padding-left: 150px;
+    text-align: center;
+}
+.cont3{
+    padding-left: 150px;
+    text-align: center;
+}
+.par{
+    color: gray;
+    font-size: 15px;
+}
+.unseen{
+    display: flex;
+    padding: 30px;
+    padding-top: 80px;
+}
+   
+.un1{
+    padding-left: 70px;
+    padding-top: 50px;
+}
+.mn2{
+    color: gray;
+    font-size: 15px;
+}
+.mn1{
+    color: rgb(68, 65, 65);
+    font-size: 37px;
+
+
+}
+.un2{
+    padding-left:40px;
+
+}
+/* section 06 */
+
+.business-section {
+    background-color: #f9fafb;
+    padding: 50px 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .text-area {
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .text-area h2 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .text-area h2 span {
+    color: #4CAF50;
+  }
+  
+  .text-area p {
+    margin-top: 8px;
+    color: #666;
+    font-size: 14px;
+  }
+  
+  .numbers-area {
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    min-width: 300px;
+    margin-top: 20px;
+  }
+  
+  .single-stat {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .icon {
+    font-size: 28px;
+    color: #4CAF50;
+  }
+  
+  .single-stat h3 {
+    font-size: 22px;
+    color: #333;
+  }
+  
+  .single-stat p {
+    font-size: 14px;
+    color: #777;
+  }
+
+  
+  
+ 
+
+/* section 07 */
+.second{
+    color: rgb(36, 36, 68);
+    text-align: center;
+    background-color: rgb(93, 87, 87, 0.1);
+    padding: 30px;
+    font-size: 25px;
+    
+}
+/* section last */
+.last{
+    display: flex;
+    padding: 70px;
+    background-color: rgb(35, 35, 82);
+}
+.foot{
+    display: flex;
+}
+.pak{
+    font-size: 18px;
+    color: white;
+}
+.nex{
+    color: white;
+    font-size: 40px;
+}
+.coln{
+    list-style: none;
+    color: white;
+}
+.mk{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.la1{
+    padding-left: 70px;
+}
+.pkk{
+    padding-left: 40px;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+}
+.las{
+    padding-left: 100px;
+    padding-top:40px ;
+}
+.icoon{
+    color: white;
+   font-weight: 800;
+   font-size: 25px;
+
+}
+
+
+
+
+
+
